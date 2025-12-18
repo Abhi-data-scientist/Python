@@ -3,5 +3,3 @@ for i in range(len(list)-1):
     if list[i]>list[i+1]:
         print("Nhi hai sorted")
         break
-
-    https://github.com/Abhi-data-scientist/Python/tree/6a96579cfc974abc25d290edde38c0a1b008c7f1/Tuple
