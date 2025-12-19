@@ -16,9 +16,9 @@
 # ------------------------------------------------------
 
 # 8. Convert a list of tuples into a dictionary.
-t = (1,2,3,4)
-dictonary = dict(t)
-print(dictonary)
+# t = (1,2,3,4)
+# dictonary = dict(t)
+# print(dictonary)
 
 # ------------------------------------------------------
 
